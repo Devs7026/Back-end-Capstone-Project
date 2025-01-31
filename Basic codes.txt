@@ -1,0 +1,8 @@
+python -m venv venv -> Creates a virtual environment
+venv\Scripts\activate -> To activate the virtual environment
+pip install django
+pip install mysqlclient
+
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
