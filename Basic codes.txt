@@ -10,9 +10,7 @@ python manage.py runserver
 mysql -u root -p   -> Open mysql terminal
 
 
-admin/superuser:
-dev
-devs1501
+
 
 pip install djoser djangorestframework
 
